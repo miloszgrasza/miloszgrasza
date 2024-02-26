@@ -2,7 +2,7 @@
 I'm noob game developer and I like to make games with AI inside them. I also make algorythms in the langueges that I know pretty good
 ### What langueges do I know
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,cpp)](https://skillicons.dev)
-# Working on
+### Working on
 Im currenty working on 2 games one that is the future of detective games using lots of AI. And a quiz game with lots of features. 
 
 
