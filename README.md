@@ -10,7 +10,7 @@ I'm a noob game developer and I like to make games with AI inside them. I also m
 
 # Working on
 I'm currenty working on 2 games:
-1. The future of detective games using lots of AI.
+1. The future of detective games which are based on AI.
 2. Quiz game with lots of features.
    
 But the development procces takes so long it hasn't even started yet.
