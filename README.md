@@ -1,6 +1,6 @@
 # About
 I'm a noob game developer and I like to make games with AI inside them. I also make algorythms in the languages that I know
-## What langueges do I know
+# What langueges do I know
 ### Good
 [![My Skills](https://skillicons.dev/icons?i=html,css,python)](https://skillicons.dev)
 ### It's somewhere deep inside my brain
@@ -14,7 +14,7 @@ I'm currenty working on 2 games:
 2. Quiz game with lots of features.
    
 But the development procces takes so long it hasn't even started yet.
-## Interests
+# Interests
 * Game dev (obviosly)
 * Algorithms
 * Artificial intelligence
