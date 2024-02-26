@@ -1,5 +1,5 @@
 ## About
-I'm a noob game developer and I like to make games with AI inside them. I also make algorythms in the langueges that I know pretty good
+I'm a noob game developer and I like to make games with AI inside them. I also make algorythms in the languages that I know
 ## What langueges do I know
 ### Very good
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
