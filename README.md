@@ -1,5 +1,7 @@
-### Hi there 👋
-I dont know how this works
+### About
+I'm noob game developer and I like to make games with AI inside them. I also make algorythms in the langueges that I know pretty good
+### What langueges do I know
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c++)](https://skillicons.dev)
 
 <!--
 **miloszgrasza/miloszgrasza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
