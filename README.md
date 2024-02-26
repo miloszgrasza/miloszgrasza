@@ -19,7 +19,7 @@ But the development procces takes so long it hasn't even started yet.
 * Algorithms
 * Artificial intelligence
 * User experience
-* Fulfilling Project Requests
+* Projects on demand
   
 
 
